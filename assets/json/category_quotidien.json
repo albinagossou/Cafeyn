@@ -1,0 +1,1424 @@
+{
+  "issues": [{
+    "issueId": 21662757,
+    "publicationId": 1900822,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1900822/21662757/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1900822,
+      "title": "Libération",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Nationale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.78,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662861,
+    "publicationId": 1946036,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1946036/21662861/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1946036,
+      "title": "Le Maine Libre",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.73,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": true,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662862,
+    "publicationId": 1946039,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1946039/21662862/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1946039,
+      "title": "Le Courrier de l'Ouest",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.73,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": true,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662979,
+    "publicationId": 1945999,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1945999/21662979/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1945999,
+      "title": "Ouest France",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.74,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": true,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662759,
+    "publicationId": 2073520,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/2073520/21662759/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 2073520,
+      "title": "La Presse de la Manche",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.74,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662827,
+    "publicationId": 1980902,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1980902/21662827/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1980902,
+      "title": "La Provence",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.67,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": true,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662809,
+    "publicationId": 1902673,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1902673/21662809/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1902673,
+      "title": "La Marseillaise",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.72,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": true,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662758,
+    "publicationId": 2127266,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/2127266/21662758/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 2127266,
+      "title": "Le Journal de l'île de la Réunion",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.69,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662714,
+    "publicationId": 1980895,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1980895/21662714/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1980895,
+      "title": "Aujourd'hui en France",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Nationale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.78,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662716,
+    "publicationId": 1980894,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1980894/21662716/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1980894,
+      "title": "Le Parisien",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.78,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": true,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662944,
+    "publicationId": 1921663,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1921663/21662944/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1921663,
+      "title": "Nord Eclair édition Mouscron",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.68,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662821,
+    "publicationId": 1980475,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1980475/21662821/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1980475,
+      "title": "Le Progrès de Fécamp",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.81,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662825,
+    "publicationId": 1980468,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1980468/21662825/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1980468,
+      "title": "Paris Normandie",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.81,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": true,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662693,
+    "publicationId": 1658142,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1658142/21662693/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1658142,
+      "title": "L'Opinion",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Nationale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.67,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662200,
+    "publicationId": 21544891,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 7033,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/21544891/21662200/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 21544891,
+      "title": "La Tribune Quotidien",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Nationale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.75,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662973,
+    "publicationId": 1978738,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1978738/21662973/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1978738,
+      "title": "Nord Littoral",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.8,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662834,
+    "publicationId": 1927222,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1927222/21662834/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1927222,
+      "title": "L'Est éclair",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.8,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662965,
+    "publicationId": 1927223,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1927223/21662965/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1927223,
+      "title": "Libération Champagne",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.8,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662842,
+    "publicationId": 1926593,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1926593/21662842/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1926593,
+      "title": "L'Ardennais",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.8,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662850,
+    "publicationId": 1926597,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1926597/21662850/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1926597,
+      "title": "L'Union",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.8,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": true,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662833,
+    "publicationId": 1927236,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1927236/21662833/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1927236,
+      "title": "L'Aisne Nouvelle",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.8,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": true,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662854,
+    "publicationId": 1926576,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1926576/21662854/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1926576,
+      "title": "La Voix du Nord",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.8,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": true,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662987,
+    "publicationId": 1926696,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1926696/21662987/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1926696,
+      "title": "Courrier Picard",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.8,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": true,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662701,
+    "publicationId": 1883912,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1883912/21662701/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1883912,
+      "title": "20 Minutes",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.75,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": true,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662975,
+    "publicationId": 1946032,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1946032/21662975/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1946032,
+      "title": "Presse Océan",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.73,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": true,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662988,
+    "publicationId": 21623821,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/21623821/21662988/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 21623821,
+      "title": "Monaco Matin",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.71,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662731,
+    "publicationId": 21623061,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/21623061/21662731/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 21623061,
+      "title": "Nice-Matin",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.71,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": true,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662754,
+    "publicationId": 21623064,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/21623064/21662754/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 21623064,
+      "title": "Var-Matin",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.71,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": true,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662763,
+    "publicationId": 181328,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/181328/21662763/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 181328,
+      "title": "Le Télégramme",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.73,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": true,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662780,
+    "publicationId": 1980918,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1980918/21662780/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1980918,
+      "title": "Corse-Matin",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.66,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662739,
+    "publicationId": 1980758,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1980758/21662739/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1980758,
+      "title": "Sud Ouest",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.71,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": true,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662966,
+    "publicationId": 1926680,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1926680/21662966/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1926680,
+      "title": "Nordéclair",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.8,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": true,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662808,
+    "publicationId": 1980733,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1980733/21662808/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1980733,
+      "title": "Charente Libre",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.67,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662803,
+    "publicationId": 1980736,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1980736/21662803/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1980736,
+      "title": "Dordogne Libre",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.67,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662804,
+    "publicationId": 1980743,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1980743/21662804/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1980743,
+      "title": "La République des Pyrénées",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.65,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662805,
+    "publicationId": 1980739,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1980739/21662805/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1980739,
+      "title": "L’Eclair des Pyrénées",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.65,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662766,
+    "publicationId": 21426901,
+    "releaseDate": "2020-11-16T00:00:00",
+    "issueNumber": 20201116,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/21426901/21662766/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 21426901,
+      "title": "L'Equipe",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Nationale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.78,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21662507,
+    "publicationId": 1980756,
+    "releaseDate": "2020-11-15T00:00:00",
+    "issueNumber": 20201115,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1980756/21662507/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1980756,
+      "title": "Sud Ouest Dimanche",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.71,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": true,
+    "hasMultipleEditions": true,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21661944,
+    "publicationId": 1980737,
+    "releaseDate": "2020-11-13T00:00:00",
+    "issueNumber": 20201113,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1980737/21661944/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1980737,
+      "title": "Haute Gironde",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.67,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": false,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21661820,
+    "publicationId": 2073503,
+    "releaseDate": "2020-11-13T00:00:00",
+    "issueNumber": 20201113,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/2073503/21661820/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 2073503,
+      "title": "Croix du Midi - Gard",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.74,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": false,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21661818,
+    "publicationId": 2073502,
+    "releaseDate": "2020-11-13T00:00:00",
+    "issueNumber": 20201113,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/2073502/21661818/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 2073502,
+      "title": "Croix du Midi - Aude",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.74,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": false,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21661826,
+    "publicationId": 2073505,
+    "releaseDate": "2020-11-13T00:00:00",
+    "issueNumber": 20201113,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/2073505/21661826/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 2073505,
+      "title": "Croix du Midi - Hérault",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.74,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": false,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21661821,
+    "publicationId": 2073504,
+    "releaseDate": "2020-11-13T00:00:00",
+    "issueNumber": 20201113,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/2073504/21661821/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 2073504,
+      "title": "Croix du Midi - Pyrénées Orientales",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.74,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": false,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21661246,
+    "publicationId": 1980742,
+    "releaseDate": "2020-11-11T00:00:00",
+    "issueNumber": 20201111,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/1980742/21661246/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 1980742,
+      "title": "La Dépêche du Bassin",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.71,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": false,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21658736,
+    "publicationId": 21518821,
+    "releaseDate": "2020-11-04T00:00:00",
+    "issueNumber": 98,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/21518821/21658736/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 21518821,
+      "title": "Mayenne infos",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.75,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": false,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21657253,
+    "publicationId": 21442671,
+    "releaseDate": "2020-10-30T00:00:00",
+    "issueNumber": 20201030,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/21442671/21657253/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 21442671,
+      "title": "L’Economie Cameroun",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.73,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": false,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21657254,
+    "publicationId": 2122865,
+    "releaseDate": "2020-10-30T00:00:00",
+    "issueNumber": 2565,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/2122865/21657254/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 2122865,
+      "title": "CNews",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Nationale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.71,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": false,
+    "hasMultipleEditions": true,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21651056,
+    "publicationId": 21545624,
+    "releaseDate": "2020-10-14T00:00:00",
+    "issueNumber": 20201014,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/21545624/21651056/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 21545624,
+      "title": "Minuit Sport",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Quotidiens",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.69,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": false,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }, {
+    "issueId": 21578274,
+    "publicationId": 2087505,
+    "releaseDate": "2020-03-19T00:00:00",
+    "issueNumber": 228,
+    "coverUrl": "https://cdn1.lekiosk.com/Public/Publications/2087505/21578274/Images/Detail.jpg",
+    "publication": {
+      "publicationId": 2087505,
+      "title": "Côtés Yvelines Versailles-Rambouillet",
+      "category": {
+        "categoryId": 233,
+        "name": "Quotidiens",
+        "subCategories": [{
+          "categoryId": 233,
+          "name": "Presse Régionale",
+          "countPublication": 0
+        }],
+        "countPublication": 0
+      },
+      "eligible": false,
+      "hasLogo1": false,
+      "hasLogo2": false
+    },
+    "ratio": 0.74,
+    "hasArticles": false,
+    "isPurchased": false,
+    "isNew": false,
+    "hasMultipleEditions": false,
+    "numberOfEdition": 0
+  }]
+}
