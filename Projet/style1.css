@@ -226,7 +226,24 @@ div.p-2{
 
 /* Footer */
 .footer{
+    padding-top: 7vh;
     flex: 1;
     justify-content: center;
-    background-color: lightgreen;
+}
+
+.pt-1{
+    font-family: 'Soleil_regular', sans-serif !important;
+    color: #1e323d;
+    font-size: 14px;
+}
+
+.pb-1 {
+    color: #536067;
+    font-size: 12px;
+}
+.mt-5{
+    color: #536067;
+}
+.p-3{
+    color: #536067;
 }

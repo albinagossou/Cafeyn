@@ -1,4 +1,4 @@
-
+//Load json data
 $(document).ready(function () {
     const datajson = '../assets/json/category_quotidien.json' // provide file location
     async function fetchData() {
@@ -10,6 +10,7 @@ $(document).ready(function () {
     async function main() {
         let data2 = await fetchData()
 
+       //Format date month
         const monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
             "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
         var container = $("#app");
@@ -20,6 +21,7 @@ $(document).ready(function () {
             addViewer(container, data2.issues[i], monthNames)
         }
     }
+//function for display json data
 
     function addViewer(container, article, monthNames) {
         console.table(article)
